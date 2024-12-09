@@ -2,9 +2,10 @@
 
 My objective is to spend minimum of 15 minutes a day learning the development of Android applications.
 
+9.12.2024 Google Android Developers: Took a quiz on Android Studio and started [Build a basic layout Pathway](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3). (15 min)  
 8.12.2024 Google Android Developers: Took a codelab [Setup Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2) in which I created my first Android app and learned to run it on Android Emulator. (30 min)  
 7.12.2024 Google Android Developers: Took a codelab [Practice Problems: Kotlin Basics](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems) 
-<br> and downloaded and installed Android Studio. (90 min)  
+<br> took a quiz on Kotlin and downloaded and installed Android Studio. (90 min)  
 6.12.2024 Google Android Developers: Took a codelab [Create and use functions in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-functions). (15 min)  
 5.12.2024 Google Android Developers: Took a codelab [Create and use variables in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-variables). (15 min)  
 4.12.2024 Google Android Developers: Took a codelab for first Program in Kotlin <br>and [played around in the sand box](https://play.kotlinlang.org/). (15 min)  
